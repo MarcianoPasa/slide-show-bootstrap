@@ -1,0 +1,8 @@
+Referências:
+https://www.w3schools.com/bootstrap/bootstrap_carousel.asp
+
+Imagens:
+https://www.pexels.com/
+
+Ícones:
+https://www.flaticon.com/
