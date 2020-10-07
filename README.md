@@ -1,3 +1,3 @@
-Programação font-end
+Programação front-end.
 
-Exemplo de slideshow utilizando bootstrap
+Exemplo de slideshow utilizando bootstrap.
